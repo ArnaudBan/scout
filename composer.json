@@ -1,5 +1,5 @@
 {
-    "name": "laravel/scout",
+    "name": "arnaudban/scout",
     "description": "Laravel Scout provides a driver based solution to searching your Eloquent models.",
     "keywords": ["algolia", "laravel", "search"],
     "license": "MIT",
